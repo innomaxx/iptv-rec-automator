@@ -1,0 +1,10 @@
+D:\Dropbox\Projects\C#\WinForms\IPTV Rec Automator\IPTV Rec Automator\bin\Debug\IPTV Rec Automator.exe.config
+D:\Dropbox\Projects\C#\WinForms\IPTV Rec Automator\IPTV Rec Automator\bin\Debug\IPTV Rec Automator.exe
+D:\Dropbox\Projects\C#\WinForms\IPTV Rec Automator\IPTV Rec Automator\bin\Debug\IPTV Rec Automator.pdb
+D:\Dropbox\Projects\C#\WinForms\IPTV Rec Automator\IPTV Rec Automator\obj\Debug\IPTV Rec Automator.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\C#\WinForms\IPTV Rec Automator\IPTV Rec Automator\obj\Debug\IPTV_Rec_Automator.Properties.Resources.resources
+D:\Dropbox\Projects\C#\WinForms\IPTV Rec Automator\IPTV Rec Automator\obj\Debug\IPTV Rec Automator.csproj.GenerateResource.cache
+D:\Dropbox\Projects\C#\WinForms\IPTV Rec Automator\IPTV Rec Automator\obj\Debug\IPTV Rec Automator.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\C#\WinForms\IPTV Rec Automator\IPTV Rec Automator\obj\Debug\IPTV Rec Automator.exe
+D:\Dropbox\Projects\C#\WinForms\IPTV Rec Automator\IPTV Rec Automator\obj\Debug\IPTV Rec Automator.pdb
+D:\Dropbox\Projects\C#\WinForms\IPTV Rec Automator\IPTV Rec Automator\obj\Debug\IPTV_Rec_Automator.MainForm.resources
